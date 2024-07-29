@@ -1,0 +1,19 @@
+test/
+
+# Ignore executables
+*.out
+*.exe
+*.app
+
+# Object files
+*.o
+*.obj
+
+# ignore binary files
+*.bin
+
+# ignore temp files
+*.swp
+
+.vscode/
+
