@@ -25,6 +25,7 @@ TARGET = $(BIN_DIR)/simple_cal
 # Default rule
 all: $(OBJ_DIR) $(BIN_DIR) $(TARGET)
 
+
 # Create Bin and obj directories
 $(OBJ_DIR):
 	$(MAKE_DIR) $(OBJ_DIR)
